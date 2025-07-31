@@ -1,4 +1,4 @@
-# bright-data-warsaw-tech-workshop-beyond-googl-31st-july-2025
+# bright-data-warsaw-tech-workshop-beyond-google-31st-july-2025
 
 ### List of useful links 
 - [Bright Data MCP](https://github.com/brightdata/brightdata-mcp)
